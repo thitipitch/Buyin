@@ -1,6 +1,6 @@
 workflows:
     ios-workflow:
-      name: Buyin
+      name: iOS Workflow
       environment:
         groups:
         # Add the group environment variables in Codemagic UI (either in Application/Team variables) - https://docs.codemagic.io/variables/environment-variable-groups/
@@ -16,7 +16,7 @@ workflows:
           XCODE_WORKSPACE: "swiftly.xcworkspace" # <-- Put the name of your workspace here.
           XCODE_SCHEME: "swiftly" # <-- Put the name of your scheme here.
           BUNDLE_ID: "io.codemagic.swiftly" # <-- Put your Bundle Id here.
-          APP_STORE_APP_ID: 1637332928 # <-- Put the app id number here. This is found in App Store Connect > App > General > App Information
+          APP_STORE_APP_ID: 1555555551 # <-- Put the app id number here. This is found in App Store Connect > App > General > App Information
         xcode: latest
         cocoapods: default
       triggering:
