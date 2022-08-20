@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BuyIN</string>
+    <string name="facebook_app_id">551350513339417</string>
+    <string name="fb_login_protocol_scheme">fb551350513339417</string>
+</resources>

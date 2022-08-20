@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "957042618407",
+    "project_id": "buyin-au-market",
+    "storage_bucket": "buyin-au-market.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957042618407:android:c28a46f80791dc74d19e02",
+        "android_client_info": {
+          "package_name": "com.grocery.buyin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957042618407-727tn8bvo21cd4lj3eb8gqcf8g28dd82.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.grocery.buyin",
+            "certificate_hash": "a8b45fabc57c2c9ed26e55564cb545b7ae945cc9"
+          }
+        },
+        {
+          "client_id": "957042618407-n9n6tsrjokhpn90lntu13vuun3h5judp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUYxWda_9wH06-R7NwfybPdOjXl_8j5mQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957042618407-f6vat3et8m8ddmaaqhgua4ljvqcam9q4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "957042618407-27h2t606d6ad4beqk1aegmhr52vrtqcl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.grocery.buyin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
